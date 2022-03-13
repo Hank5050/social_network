@@ -30,7 +30,7 @@
   
   ## 👀 See it in action:
 
-  🎬 [Watch a Video Walkthrough!](assets/social_network_walkthrough.mp4)
+  🎬 [Watch a Video Walkthrough!](assets/Social_Network_Walkthrough.mp4)
   
   
   ## 📃 License:
